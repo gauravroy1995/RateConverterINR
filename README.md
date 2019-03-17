@@ -1,2 +1,0 @@
-# RateConverterINR
-Created with CodeSandbox
